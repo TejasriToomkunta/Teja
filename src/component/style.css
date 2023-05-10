@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+.navbar-nav
+{
+font-family: poppins;
+}
+.img
+{
+    width: 100%;
+   margin-top: 100px;
+}
+.Shop
+{
+    font-family: Oswald;
+    text-align: center;
+    margin-top: 50px; 
+}
+.card{
+    display: flex;
+   width: 100%;
+   font-family: poppins;
+}
+.Best
+{
+    font-family: Oswald;
+    text-align: center;   
+}
+.Look
+{
+    font-family: Oswald;
+    text-align: center;   
+}
+.src{
+    align-items: center;
+    margin-top: 50px;
+}
+.image{
+display: flex;
+justify-content: space-evenly;
+font-family: Oswald;
+}
+.Get{
+    margin-top: 50px;
+}
+.Mobik{
+    margin-top: 50px;
+}
+.For{
+    margin-top: 50px; 
+}
+.col{
+    margin-top: 50px; 
+}
+.In
+{
+    margin-top: 50px;   
+}
+.Number{
+    font-family: Oswald;
+}
